@@ -1,0 +1,2 @@
+# bitmana
+My bitmana repo
